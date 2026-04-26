@@ -1,6 +1,6 @@
 # Hi, I'm Vygantas 👋
 
-Full-stack developer with 6+ years of professional experience, based in Kaunas, Lithuania. I've built and maintained production web applications across project management and industrial electronics domains. Currently looking for remote opportunities.
+Full-stack developer with 6+ years of professional experience, based in Kaunas, Lithuania. I've built and maintained production web applications across project management and industrial electronics domains.
 
 ---
 
