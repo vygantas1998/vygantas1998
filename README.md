@@ -48,4 +48,4 @@ Comfortable working independently, delivering production-ready code, and communi
 
 - Email: vygantasskirius@gmail.com
 - LinkedIn: [vygantas-s](https://www.linkedin.com/in/vygantas-s-739762111/)
-- Portfolio: *(coming soon)*
+- Portfolio: [portfolio-projects](https://github.com/vygantas1998/portfolio-projects)
