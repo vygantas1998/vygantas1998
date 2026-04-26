@@ -31,7 +31,7 @@ Full-stack developer with 6+ years of professional experience, based in Kaunas, 
 Industrial electronics company. Building and maintaining internal web tools.
 
 **Junior Software Engineer — Execview** *(2018 – 2021, London)*
-Developed a business management tool used by clients across the UK.
+Developed a project management tool used by clients across the UK.
 
 **B.Sc. Computer Programming — Kaunas University of Technology** *(2017 – 2021)*
 
