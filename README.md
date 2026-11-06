@@ -40,7 +40,7 @@ Developed a project management tool used by clients across the UK.
 ## What I'm Looking For
 
 Open to **remote full-stack roles** and **freelance projects**.
-Comfortable working independently, delivering production-ready code, and communicating async in English.
+Comfortable working independently, delivering production-ready code.
 
 ---
 
